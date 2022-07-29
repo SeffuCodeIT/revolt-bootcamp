@@ -10,8 +10,9 @@ body::before {
     }
 }
 
-@media(min-width:768px) {
+
+/* @media(min-width:768px) {
     .gmap_canvas {
         width: 200px;
     }
-}
+} */
